@@ -9,7 +9,7 @@ A junior backend developer from Colombia, based in Bogotá. I´m passionate abou
 [![](https://img.shields.io/github/followers/Matius2002?color=27da6b&logo=Handshake)](https://github.com/Matius2002?tab=followers)
 
 ## Tools
-<a href="https://github.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/download/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA Community" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
