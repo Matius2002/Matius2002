@@ -15,7 +15,8 @@ A junior backend developer from Colombia, based in Bogotá. I´m passionate abou
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pycharm/download/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://filezilla-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/FileZilla_logo.svg" alt="FileZilla" width="40" height="40"/></a>
+<a href="https://filezilla-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="FileZilla" width="40" height="40"/></a>
+
 
 ## Technology Stack
 
