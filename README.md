@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I´m Mateo Mora
+
+A junior backend developer from Colombia, based in Bogotá. I´m passionate about software development, database administration, and network management.
+
+## About Me
+[![](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)
+
 
 <!--
 **Matius2002/Matius2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
