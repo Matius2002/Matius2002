@@ -12,7 +12,7 @@ A junior backend developer from Colombia, based in Bogotá. I´m passionate abou
 <a href="https://github.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/download/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA Community" width="40" height="40"/></a>
-<a href="https://www.pgadmin.org/" target="_blank"><img src="https://www.pgadmin.org/static/img/pgadmin_logo.png" alt="pgAdmin 4" width="40" height="40"/></a> 
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.postgresql.org/static/img/postgresql_logo.png" alt="postgresql" width="40" height="40"/></a> 
 <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pycharm/download/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://filezilla-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/FileZilla_logo.svg" alt="FileZilla" width="40" height="40"/></a>
