@@ -1,6 +1,6 @@
-# Hi, I´m Mateo Mora
+# Hi, I´m Mateo Alejandro Mora Hernández
 
-A junior backend developer from Colombia, based in Bogotá. I´m passionate about software development, database administration, and network management.
+Junior Data Analyst with a background in Systems Engineering and experience in data extraction, analysis, and visualization. Skilled in Python, SQL, Power BI, and Excel, with knowledge of relational databases (SQL Server, PostgreSQL) and report development to support decision-making. Previous experience in IT support and technology solutions development, with a focus on agile methodologies, teamwork, and continuous improvement.
 
 ## About Me
 [![](https://visitor-badge.laobi.icu/badge?page_id=Matius2002.Matius2002)](https://visitor-badge.laobi.icu/badge?page_id=Matius2002.Matius2002)
