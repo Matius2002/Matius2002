@@ -1,97 +1,55 @@
-# Hi, I´m Mateo Alejandro Mora Hernández
+# 👋 ¡Hola, soy Mateo Alejandro Mora Hernández!
 
-Junior Data Analyst with a background in Systems Engineering and experience in data extraction, analysis, and visualization. Skilled in Python, SQL, Power BI, and Excel, with knowledge of relational databases (SQL Server, PostgreSQL) and report development to support decision-making. Previous experience in IT support and technology solutions development, with a focus on agile methodologies, teamwork, and continuous improvement.
+🎯 **Ingeniero de Sistemas | Analista de Datos | Técnico en Sistemas**  
+💡 Apasionado por transformar los datos en conocimiento útil y decisiones estratégicas.
 
-## About Me
-[![](https://visitor-badge.laobi.icu/badge?page_id=Matius2002.Matius2002)](https://visitor-badge.laobi.icu/badge?page_id=Matius2002.Matius2002)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:mateoalejandromorahernandez.com)
-[![](https://img.shields.io/github/stars/Matius2002?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=Matius2002&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/Matius2002?color=27da6b&logo=Handshake)](https://github.com/Matius2002?tab=followers)
+---
 
-## Tools
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/idea/download/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA Community" width="40" height="40"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/pycharm/download/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://filezilla-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="FileZilla" width="40" height="40"/></a>
+## 📊 Sobre mí
 
+Soy un **Analista de Datos** con formación sólida en **Ingeniería y Tecnología**, enfocado en combinar la lógica del desarrollo backend con el poder del análisis de datos.  
+Me gusta **extraer, limpiar y visualizar información** para generar valor en proyectos basados en evidencia y automatización.
 
-## Technology Stack
+- 🎓 Ingeniero de Sistemas (Universidad Piloto de Colombia)  
+- 🧠 Técnico en Sistemas (SENA)  
+- 💼 Experiencia en proyectos con **Angular, Spring Boot, Python, SQL, Power BI y AWS**  
+- 🚀 En constante aprendizaje sobre **Data Engineering y Cloud Analytics**
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+---
 
-## Stats
+## 🧰 Tecnologías y herramientas
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
+| Lenguajes y análisis | Bases de datos | Visualización | Cloud & DevOps | Otros |
+|----------------------|----------------|----------------|----------------|--------|
+| 🐍 Python (Pandas, NumPy, Matplotlib) | 🗃️ SQL Server, PostgreSQL | 📊 Power BI, Excel | ☁️ AWS, Docker | 🧩 Git, PHP |
 
-![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+---
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C854%20hrs%2048%20mins-blue)
+## 📂 Proyectos destacados
 
-**🐱 My GitHub Data** 
+🔹 **TuristExplor**  
+_Plataforma web de turismo para Girardot_  
+> Angular | Spring Boot | PostgreSQL | Tailwind | AWS  
+> Sistema completo de gestión turística con autenticación, roles, reportes y análisis de visitas.
 
-> 🏆 2 Contributions in the Year 2025
- > 
-> 📦 126.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 56 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
+🔹 **Sistema de Novedades Tecnológicas - Clínica Junical Medical S.A.S.**  
+> Angular | Spring Boot | PostgreSQL  
+> Solución para registrar, analizar y visualizar reportes técnicos dentro de una organización.
 
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    3 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌃 Evening    3 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+🔹 **ETL_Ventas y Análisis con Python**  
+> Python | Pandas | Matplotlib | Excel  
+> Limpieza y visualización de datos de ventas con métricas e indicadores automatizados.
 
-```
-📅 **I'm Most Productive on Wednesday** 
+---
 
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    3 commits      ████████████░░░░░░░░░░░░░   50.0% 
-Thursday     2 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       1 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+## 📫 Conéctate conmigo
 
-```
+🌐 [Portafolio web](https://portafolio-gray-apple.reflex.run)  
+💼 [LinkedIn](https://www.linkedin.com/in/mateoalejandromorahernandez/)  
+🐙 [GitHub](https://github.com/Matius2002)  
+📧 **mateoalejandromorahernandez@gmail.com**
 
+---
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   8 hrs 38 mins       ████████████░░░░░░░░░░░░░   50.65% 
-YAML                     4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86% 
-Nginx configuration file 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-TOML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99%
-
-🔥 Editors: 
-PyCharm                  17 hrs 3 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      17 hrs 3 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             ██████████████░░░░░░░░░░░   57.14% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
+> _"Los datos cuentan historias, y mi misión es hacer que sean comprendidas."_ 📈  
+> — MateoDev 🧠
