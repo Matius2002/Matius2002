@@ -8,7 +8,7 @@
 ## 📊 Sobre mí
 
 Soy un **Analista de Datos** con una sólida formación en **Ingeniería de Sistemas**, orientado al análisis, automatización y optimización de procesos basados en datos.  
-Combino mis conocimientos de desarrollo backend con herramientas analíticas para extraer valor de la información y crear soluciones efectivas.
+Combino mis conocimientos de desarrollo web con herramientas analíticas para extraer valor de la información y crear soluciones efectivas.
 
 - 🎓 Ingeniero de Sistemas (Universidad Piloto de Colombia)  
 - 🧠 Técnico en Sistemas (SENA)  
