@@ -73,4 +73,4 @@ Plataforma web de turismo para Girardot.
 ---
 
 > _"Los datos cuentan historias, y mi misión es hacer que sean comprendidas."_ 📊  
-> — MateoDev 🧠
+> — Mateo Mora 🧠
