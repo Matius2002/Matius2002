@@ -66,7 +66,7 @@ Plataforma web de turismo para Girardot.
 ## 📫 Conéctate conmigo
 
 🌐 [Portafolio web](https://portafolio-gray-apple.reflex.run)  
-💼 [LinkedIn](https://www.linkedin.com/in/mateoalejandromorahernandez/)  
+💼 [LinkedIn](https://www.linkedin.com/in/mateo-alejandro-mora/)  
 🐙 [GitHub](https://github.com/Matius2002)  
 📧 **mateoalejandromorahernandez@gmail.com**
 
