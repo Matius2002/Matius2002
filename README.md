@@ -7,38 +7,59 @@
 
 ## 📊 Sobre mí
 
-Soy un **Analista de Datos** con formación sólida en **Ingeniería y Tecnología**, enfocado en combinar la lógica del desarrollo backend con el poder del análisis de datos.  
-Me gusta **extraer, limpiar y visualizar información** para generar valor en proyectos basados en evidencia y automatización.
+Soy un **Analista de Datos** con una sólida formación en **Ingeniería de Sistemas**, orientado al análisis, automatización y optimización de procesos basados en datos.  
+Combino mis conocimientos de desarrollo backend con herramientas analíticas para extraer valor de la información y crear soluciones efectivas.
 
 - 🎓 Ingeniero de Sistemas (Universidad Piloto de Colombia)  
 - 🧠 Técnico en Sistemas (SENA)  
-- 💼 Experiencia en proyectos con **Angular, Spring Boot, Python, SQL, Power BI y AWS**  
-- 🚀 En constante aprendizaje sobre **Data Engineering y Cloud Analytics**
+- 📊 Enfoque en *Data Analytics, ETL y Business Intelligence*  
+- ☁️ Explorando el mundo del *Cloud Computing* con **AWS**  
+- 💬 Apasionado por aprender, compartir y aplicar buenas prácticas en tecnología  
 
 ---
 
 ## 🧰 Tecnologías y herramientas
 
-| Lenguajes y análisis | Bases de datos | Visualización | Cloud & DevOps | Otros |
-|----------------------|----------------|----------------|----------------|--------|
-| 🐍 Python (Pandas, NumPy, Matplotlib) | 🗃️ SQL Server, PostgreSQL | 📊 Power BI, Excel | ☁️ AWS, Docker | 🧩 Git, PHP |
+### 🔹 Lenguajes y análisis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🔹 Visualización y análisis
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🔹 Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔹 Control de versiones
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📂 Proyectos destacados
+## 🚀 Proyectos destacados
 
 🔹 **TuristExplor**  
-_Plataforma web de turismo para Girardot_  
+Plataforma web de turismo para Girardot.  
 > Angular | Spring Boot | PostgreSQL | Tailwind | AWS  
-> Sistema completo de gestión turística con autenticación, roles, reportes y análisis de visitas.
+> Sistema de gestión turística con roles, autenticación, reportes y análisis de visitas.
 
 🔹 **Sistema de Novedades Tecnológicas - Clínica Junical Medical S.A.S.**  
 > Angular | Spring Boot | PostgreSQL  
-> Solución para registrar, analizar y visualizar reportes técnicos dentro de una organización.
+> Solución para registrar, analizar y visualizar reportes técnicos en una organización.
 
 🔹 **ETL_Ventas y Análisis con Python**  
 > Python | Pandas | Matplotlib | Excel  
-> Limpieza y visualización de datos de ventas con métricas e indicadores automatizados.
+> Limpieza y visualización de datos de ventas con métricas automatizadas.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matius2002&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matius2002&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -51,5 +72,5 @@ _Plataforma web de turismo para Girardot_
 
 ---
 
-> _"Los datos cuentan historias, y mi misión es hacer que sean comprendidas."_ 📈  
+> _"Los datos cuentan historias, y mi misión es hacer que sean comprendidas."_ 📊  
 > — MateoDev 🧠
