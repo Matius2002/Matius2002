@@ -1,76 +1,143 @@
 # 👋 ¡Hola, soy Mateo Alejandro Mora Hernández!
 
-🎯 **Ingeniero de Sistemas | Analista de Datos | Técnico en Sistemas**  
-💡 Apasionado por transformar los datos en conocimiento útil y decisiones estratégicas.
+🎯 **Ingeniero de Sistemas | Data Engineer | Data & Cloud Enthusiast**
+
+💡 Apasionado por construir soluciones de datos, automatizar procesos ETL/ELT y transformar información en datos confiables para la toma de decisiones.
 
 ---
 
-## 📊 Sobre mí
+## 🚀 Sobre mí
 
-Soy un **Analista de Datos** con una sólida formación en **Ingeniería de Sistemas**, orientado al análisis, automatización y optimización de procesos basados en datos.  
-Combino mis conocimientos de desarrollo web con herramientas analíticas para extraer valor de la información y crear soluciones efectivas.
+Soy **Ingeniero de Sistemas** con formación en desarrollo de software, bases de datos y procesamiento de información, enfocado en mi crecimiento profesional como **Data Engineer**.
 
-- 🎓 Ingeniero de Sistemas (Universidad Piloto de Colombia)  
-- 🧠 Técnico en Sistemas (SENA)  
-- 📊 Enfoque en *Data Analytics, ETL y Business Intelligence*  
-- ☁️ Explorando el mundo del *Cloud Computing* con **AWS**  
-- 💬 Apasionado por aprender, compartir y aplicar buenas prácticas en tecnología  
+Me interesa diseñar y construir soluciones que permitan **extraer, transformar, integrar, almacenar y procesar datos** de diferentes fuentes mediante pipelines eficientes y automatizados.
+
+Actualmente estoy fortaleciendo mis conocimientos en **Python, SQL, ETL/ELT, bases de datos, Data Pipelines, Docker y Cloud Computing**, con especial interés en arquitecturas modernas de datos.
+
+- 🎓 **Ingeniero de Sistemas** — Universidad Piloto de Colombia
+- 🧠 **Técnico en Sistemas** — SENA
+- 🏗️ Enfoque profesional en **Data Engineering**
+- 🐍 Python para procesamiento y automatización de datos
+- 🗄️ SQL, PostgreSQL y SQL Server
+- 🔄 Procesos **ETL / ELT**
+- 🧹 Limpieza y transformación de datos
+- 🔗 Integración de diferentes fuentes de información
+- 🐳 Docker
+- ☁️ AWS y Cloud Computing
+- 🔧 Git y GitHub
+- 📊 Power BI como herramienta complementaria de análisis
 
 ---
 
-## 🧰 Tecnologías y herramientas
+# 🧰 Data Engineering Stack
 
-### 🔹 Lenguajes y análisis
+## 🐍 Lenguajes
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🔹 Visualización y análisis
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔹 Cloud & DevOps
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+## 🔄 Data Engineering & ETL
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+---
+
+## 🗄️ Bases de Datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔹 Control de versiones
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 🔧 Version Control
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Proyectos destacados
+## 📊 Analytics & BI
 
-🔹 **TuristExplor**  
-Plataforma web de turismo para Girardot.  
-> Angular | Spring Boot | PostgreSQL | Tailwind | AWS  
-> Sistema de gestión turística con roles, autenticación, reportes y análisis de visitas.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-🔹 **Sistema de Novedades Tecnológicas - Clínica Junical Medical S.A.S.**  
-> Angular | Spring Boot | PostgreSQL  
-> Solución para registrar, analizar y visualizar reportes técnicos en una organización.
-
-🔹 **ETL_Ventas y Análisis con Python**  
-> Python | Pandas | Matplotlib | Excel  
-> Limpieza y visualización de datos de ventas con métricas automatizadas.
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📈 Estadísticas de GitHub
+# 🏗️ Data Engineering Skills
 
-![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matius2002&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matius2002&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Conéctate conmigo
-
-🌐 [Portafolio web](https://portafolio-gray-apple.reflex.run)  
-💼 [LinkedIn](https://www.linkedin.com/in/mateo-alejandro-mora/)  
-🐙 [GitHub](https://github.com/Matius2002)  
-📧 **mateoalejandromorahernandez@gmail.com**
-
----
-
-> _"Los datos cuentan historias, y mi misión es hacer que sean comprendidas."_ 📊  
-> — Mateo Mora 🧠
+```text
+DATA ENGINEERING
+│
+├── 🐍 Python
+│   ├── Pandas
+│   ├── NumPy
+│   ├── SQLAlchemy
+│   └── Automation
+│
+├── 🗄️ SQL
+│   ├── SELECT
+│   ├── JOINs
+│   ├── CTEs
+│   ├── Subqueries
+│   ├── Window Functions
+│   └── Query Optimization
+│
+├── 🔄 ETL / ELT
+│   ├── Extract
+│   ├── Transform
+│   ├── Load
+│   ├── Data Cleaning
+│   └── Data Quality
+│
+├── 🗃️ Databases
+│   ├── PostgreSQL
+│   ├── SQL Server
+│   └── Data Modeling
+│
+├── 🔗 Data Pipelines
+│   ├── Python
+│   ├── Airflow
+│   └── Automation
+│
+├── ☁️ Cloud
+│   └── AWS
+│
+├── 🐳 DevOps
+│   ├── Git
+│   ├── GitHub
+│   ├── Docker
+│   └── CI/CD
+│
+└── 📊 Data Analytics
+    ├── Power BI
+    └── Excel
